@@ -5,7 +5,7 @@ A one2many task for LogMeInCentral where you can specify one windows update to r
 * Windows OS
 
 # How To Use
-* convert find.py to find.exe using py2exe (copy all binaries created to removewupdate.bat's location)
+* convert find.py to find.exe using py2exe(use the release for python 2.7) (copy all binaries created to removewupdate.bat's location)
 * removewupdate.bat KB####### (you can only provide 1 arg to removeupdate.bat)
 
 # Why
